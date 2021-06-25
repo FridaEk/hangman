@@ -7,8 +7,6 @@ Enforce them, because the game will not..
 
 - Don't use more than one letter when you're guessing.
 
----
-
 ## Getting started
 
 ---
@@ -16,12 +14,6 @@ Enforce them, because the game will not..
 - Open your terminal
 - Navigate to project directory
 - Type
-
-```java
-java -jar target/hangman-0.0.1-SNAPSHOT.jar
-```
-
-or
 
 ```java
 mvn spring-boot:run
